@@ -8,7 +8,7 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" RequestedTheme="Light">
-        <RichEditBox x:ConnectionId='0' x:Name="richTxtCodeArea" HorizontalAlignment="Left" Margin="198,193,0,0" VerticalAlignment="Top" Height="575" Width="1168"                              />
+        <RichEditBox x:ConnectionId='0' x:Name="richTxtCodeArea" HorizontalAlignment="Left" Margin="10,169,0,0" VerticalAlignment="Top" Height="599" Width="1356"                              />
 
 
     </Grid>
