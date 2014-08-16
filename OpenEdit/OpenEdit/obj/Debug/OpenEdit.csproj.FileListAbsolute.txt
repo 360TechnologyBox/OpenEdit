@@ -29,3 +29,34 @@ E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit( Node.js
 E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit( Node.js Editor )\OpenEdit\OpenEdit\obj\Debug\qualifiers.txt.intermediate
 E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit( Node.js Editor )\OpenEdit\OpenEdit\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit( Node.js Editor )\OpenEdit\OpenEdit\obj\Debug\ProjectArchitectures.txt
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\App.xbf
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\MainPage.xbf
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\OpenEdit.exe
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\OpenEdit.pdb
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\resources.pri
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\AppxManifest.xml
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\OpenEdit.build.appxrecipe
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\App.g.i.cs
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\App.g.cs
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\MainPage.g.i.cs
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\MainPage.g.cs
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\XamlTypeInfo.g.cs
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\App.xaml
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\MainPage.xaml
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\App.xbf
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\MainPage.xbf
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\XamlSaveStateFile.xml
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\OpenEdit.exe
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\OpenEdit.pdb
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\priconfig.xml
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\priconfig.xml.intermediate
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\layout.resfiles
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\layout.resfiles.intermediate
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\resources.resfiles
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\resources.resfiles.intermediate
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\pri.resfiles
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\pri.resfiles.intermediate
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\qualifiers.txt
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\qualifiers.txt.intermediate
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\obj\Debug\ProjectArchitectures.txt

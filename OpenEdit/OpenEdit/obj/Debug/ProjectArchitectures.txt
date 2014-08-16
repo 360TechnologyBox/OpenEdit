@@ -1,1 +1,1 @@
-E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit( Node.js Editor )\OpenEdit\OpenEdit\OpenEdit.csproj;neutral
+E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\OpenEdit.csproj;neutral

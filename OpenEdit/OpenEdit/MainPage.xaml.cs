@@ -30,16 +30,35 @@ namespace OpenEdit
         public MainPage()
         {
             this.InitializeComponent();
+            richTxtCodeArea.IsSpellCheckEnabled = false;
+            richTxtCodeArea.IsTextPredictionEnabled = true;
         }
 
-        private void richTxtCodeArea_KeyUp(object sender, KeyRoutedEventArgs e)
+        private async void richTxtCodeArea_KeyUp(object sender, KeyRoutedEventArgs e)
         {
 
             Exception myex = null;
             string errorme = "no error";
             try
             {
-                HighlightKeyWords(JavaSscriptkeyWords);
+                HighlightKeyWords(JavaScriptkeyWords);
+                Windows.UI.Popups.PopupMenu menu = new PopupMenu();
+                //menu.ShowForSelectionAsync(GetElementRect)
+                //var visual = richTxtCodeArea.TransformToVisual(null);
+                //var point = visual.TransformPoint(new Point());
+                //var point = Window.Current.CoreWindow.
+                Point mypoint;
+                string code;
+                richTxtCodeArea.Document.GetText(TextGetOptions.None, out code);
+                richTxtCodeArea.Document.GetRange(0,code.Length).GetPoint(HorizontalCharacterAlignment.Left, VerticalCharacterAlignment.Baseline, PointOptions.AllowOffClient, out mypoint);
+                Rect r = new Rect(mypoint, new Size( 10 , 10 ));
+                menu.Commands.Add(new UICommand("hello"));                
+                await menu.ShowForSelectionAsync(r, Placement.Below);
+                //await menu.ShowAsync(mypoint);                
+                //await menu.ShowForSelectionAsync(r);
+                 
+
+                
 
             }
             catch (Exception ex)
@@ -48,7 +67,7 @@ namespace OpenEdit
             }            
         }
 
-        string[] JavaSscriptkeyWords = { "break", "case", "class", "catch", "const", "continue", "debugger", "default", "delete", "do", "else", "export", "extends", "finally", "for", "function", "if", "import", "in", "instanceof", "let", "new", "return", "super", "switch", "this", "throw", "try", "typeof", "var", "void", "while", "with", "yield" };
+        string[] JavaScriptkeyWords = { "break", "case", "class", "catch", "const", "continue", "debugger", "default", "delete", "do", "else", "export", "extends", "finally", "for", "function", "if", "import", "in", "instanceof", "let", "new", "return", "super", "switch", "this", "throw", "try", "typeof", "var", "void", "while", "with", "yield" };
 
         public void HighlightKeyWords(string[] keyWords)
         {

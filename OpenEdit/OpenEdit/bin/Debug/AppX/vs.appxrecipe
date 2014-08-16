@@ -14,48 +14,48 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit%28 Node.js Editor %29\OpenEdit\OpenEdit\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-08-14T14:50:54.264</Modified>
+      <Modified>2014-08-16T13:18:14.515</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit%28 Node.js Editor %29\OpenEdit\OpenEdit\bin\Debug\OpenEdit.exe">
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\OpenEdit.exe">
       <PackagePath>OpenEdit.exe</PackagePath>
-      <Modified>2014-08-16T12:31:21.055</Modified>
+      <Modified>2014-08-16T14:35:15.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit%28 Node.js Editor %29\OpenEdit\OpenEdit\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T00:31:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit%28 Node.js Editor %29\OpenEdit\OpenEdit\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T00:31:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit%28 Node.js Editor %29\OpenEdit\OpenEdit\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T00:31:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit%28 Node.js Editor %29\OpenEdit\OpenEdit\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-23T00:31:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit%28 Node.js Editor %29\OpenEdit\OpenEdit\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-08-14T14:50:53.649</Modified>
+      <Modified>2014-08-16T13:18:14.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit%28 Node.js Editor %29\OpenEdit\OpenEdit\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-08-16T12:31:20.858</Modified>
+      <Modified>2014-08-16T13:18:14.080</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\Visual Studio 2013\Projects\OpenEdit%28 Node.js Editor %29\OpenEdit\OpenEdit\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="E:\Users\Vishnu Bharathi\Documents\GitHub\OpenEdit\OpenEdit\OpenEdit\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-08-14T14:50:54.087</Modified>
+      <Modified>2014-08-16T13:18:14.404</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
